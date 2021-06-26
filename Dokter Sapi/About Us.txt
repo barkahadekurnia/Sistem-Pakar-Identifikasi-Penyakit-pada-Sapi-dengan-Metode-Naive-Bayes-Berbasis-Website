@@ -1,0 +1,15 @@
+Sistem Pakar identifikasi penyakit sapi metode naive bayes
+
+Project tugas akhir 
+Nama : Barkah Ade Kurnia 
+Nim : H1L014045
+
+Universitas Jenderal Soedirman
+
+Dosen Pembimbing : 
+Nama : Ipung Permadi S.Si.
+Bidang : Dosen Informatika Unsoed
+
+Pakar : 
+Nama : Drh. Sufiriyanto 
+Bidang : Dosen Peternakan
