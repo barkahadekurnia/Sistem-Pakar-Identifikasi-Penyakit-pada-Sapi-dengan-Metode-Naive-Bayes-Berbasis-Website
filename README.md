@@ -1,8 +1,11 @@
 # Sistem-Pakar-Identifikasi-Penyakit-pada-Sapi-dengan-Metode-Naive-Bayes-Berbasis-Website
 Repository ini merupakan Tugas akhir/Skripsi saya 
 yang berjudul : Rancang Bangun Sistem Pakar Identifikasi Penyakit pada Sapi dengan Metode Naive Bayes Berbasis Website 
-bahasa pemrogaman : PHP native, CSS, HTML, Javascript
+bahasa : PHP native, CSS, HTML, Javascript
+database : MySQL
 untuk interface saya menggunakan bootstrap4
+
+~full PHP native + comment keterangan di dalam code, Cocok buat belajar coding dan logika
 
 silahkan buat yang butuh sispak ini atau ingin dibuatkan sistem pakar serupa bisa kontak saya:
 
