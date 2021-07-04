@@ -4,9 +4,9 @@ yang berjudul : Rancang Bangun Sistem Pakar Identifikasi Penyakit pada Sapi deng
 bahasa pemrogaman : PHP native, CSS, HTML, Javascript
 untuk tampilan disini saya menggunakan bootstrap
 
-silahkan buat yang butuh referensi atau contoh silahkan di download ... 
+silahkan buat yang butuh sispak ini atau ingin dibuatkan sistem pakar serupa bisa kontak saya:
 
-tag: Sistem pakar, Naive Bayes
- 
 ig : @barkahadekurnia
 wa : 0895392220676
+
+tag: Sistem pakar, Naive Bayes
