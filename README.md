@@ -9,3 +9,4 @@ silahkan buat yang butuh referensi atau contoh silahkan di download ...
 tag: Sistem pakar, Naive Bayes
  
 ig : @barkahadekurnia
+wa : 0895392220676
