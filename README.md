@@ -6,7 +6,8 @@ untuk tampilan disini saya menggunakan bootstrap
 
 silahkan buat yang butuh sispak ini atau ingin dibuatkan sistem pakar serupa bisa kontak saya:
 
-ig : @barkahadekurnia
+ig : @barkahadekurnia 
+
 wa : 0895392220676
 
 tag: Sistem pakar, Naive Bayes
