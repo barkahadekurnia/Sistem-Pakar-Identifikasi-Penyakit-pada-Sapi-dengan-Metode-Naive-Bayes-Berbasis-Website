@@ -3,7 +3,7 @@ Repository ini merupakan Tugas akhir/Skripsi saya
 yang berjudul : Rancang Bangun Sistem Pakar Identifikasi Penyakit pada Sapi dengan Metode Naive Bayes Berbasis Website 
 bahasa : PHP native, CSS, HTML, Javascript
 database : MySQL
-untuk interface saya menggunakan bootstrap4
+metode : Naive Bayes Classifier
 
 ~full PHP native + comment keterangan di dalam code, Cocok buat belajar coding dan logika
 
